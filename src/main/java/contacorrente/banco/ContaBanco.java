@@ -1,4 +1,4 @@
-package contacorrente.banco;
+package treino.java.contacorrente.banco;
 
 public class ContaBanco {
 
