@@ -1,10 +1,10 @@
 package treino.java.contacorrente.banco;
 
-public class Banco extends contacorrente.banco.ContaBanco {
+public class Banco extends ContaBanco {
 
     public static void main(String[] args) {
 
-        contacorrente.banco.ContaBanco Joao = new contacorrente.banco.ContaBanco();
+        ContaBanco Joao = new ContaBanco();
         Joao.setSaldo(980);
         Joao.setNumConta(1111);
         Joao.abrirConta("CC");
@@ -14,7 +14,7 @@ public class Banco extends contacorrente.banco.ContaBanco {
         Joao.pagarMensal(10.0);
 
 
-        contacorrente.banco.ContaBanco Maria = new contacorrente.banco.ContaBanco();
+        ContaBanco Maria = new ContaBanco();
         Maria.setDono("Maria Alves");
         Maria.setNumConta(121);
         Maria.abrirConta("CP");
