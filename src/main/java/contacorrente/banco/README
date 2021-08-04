@@ -1,0 +1,25 @@
+Atividade proposta para simular atividades de um banco como: PILAR ENCAPSULAMENTO (FOCO didático)
+
+    /** O QUE FAZ O código?
+
+1- abrir conta
+2- tipo de conta (Corrente ou Poupança)
+3- fechar conta
+4- pagar mensalidade de serviço
+5- sacar da conta
+6- depositar na conta
+7- definir dono
+8- Verificar status da conta
+
+
+    /**  didático - mas que respeita a regra do encapsulamento.
+
+    Esse projeto é para mostrar como funciona métodos acessores e modificadores e como sua importância
+ em proteger certos tipos de dados através de:
+
+ 1- atributos privados
+ 2- atributos protegidos
+ 3- uso de Get para intermediar tal atributos
+ 4- uso de Set
+
+    att Valdeir Camargo

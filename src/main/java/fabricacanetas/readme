@@ -1,0 +1,36 @@
+Atividade proposta para demonstrar uso de POO.
+
+Os 4 pilares do POO - 1 Abstração 2 - Encapsulamento 3- Herança 4- Polimorfismo
+
+
+1- Abstração de identidade das classes e suas características, classe mãe e afins.
+2- Proteção dos dados via privado, utilização de métodos acessores e modificadores: get e set.
+3- Herdar características e ação da classe mãe ( respeitando o princípio da responsabilidade únicaº -
+3- Nesse caso a interface do Java mostra-se forte - com o conceito de múltipla herança.
+4- Polimorfismo, várias formas de método no mesmo projeto entre as classes, a ação real de cada um muda,
+4- no entando o método base é o mesmo.
+
+
+
+//Métodos Acesso & Modificador
+
+Protege quando privado, o modificador requer paramêtro.
+
+
+
+                                    -- Sujar ou Comentar? --
+
+                                    No livro "code clean" há um debate e o consenso é: se precisa ser comentado, então
+                                    a linha do código não é clean, não é legível. No entanto, mantém sua boa prática
+                                    em comentar o que realmente julgar necessário para a manutenção do código.
+
+                             Esse material é didático feito por Valdeir C, sendo assim, os comentários servem para
+                             orientar a mim e meus colegas que estão estudando POO.
+
+  /** Projeto
+
+                 Uma caneta, um lápis, uma borracha, e seus métodos como herança múltplica por interface. Cada classe
+                 se propõe a fazer uma acão, evitando gerar responsabilidades canivetes para uma  classe.
+                 Isso ajuda na manutenção do code, além de separar a implementação do code.
+
+                 at Valdeir Camargo
